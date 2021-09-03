@@ -1,7 +1,5 @@
+import "font-awesome/css/font-awesome.min.css";
 
-import 'font-awesome/css/font-awesome.min.css';
+import "@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.css";
 
-//import 'bootstrap/dist/css/bootstrap.min.css';
-import '@laylazi/bootstrap-rtl/dist/css/bootstrap-rtl.css'
-
-import './styles/main.scss';
+import "./styles/main.scss";
