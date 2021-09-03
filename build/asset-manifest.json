@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Map/static/css/main.268b023d.chunk.css",
+    "main.js": "/Map/static/js/main.5a6ea91f.chunk.js",
+    "main.js.map": "/Map/static/js/main.5a6ea91f.chunk.js.map",
+    "runtime~main.js": "/Map/static/js/runtime~main.504d9156.js",
+    "runtime~main.js.map": "/Map/static/js/runtime~main.504d9156.js.map",
+    "static/css/2.508ae934.chunk.css": "/Map/static/css/2.508ae934.chunk.css",
+    "static/js/2.2b8d8933.chunk.js": "/Map/static/js/2.2b8d8933.chunk.js",
+    "static/js/2.2b8d8933.chunk.js.map": "/Map/static/js/2.2b8d8933.chunk.js.map",
+    "index.html": "/Map/index.html",
+    "precache-manifest.27a469f56c5fdd4457c06f7930c20d5b.js": "/Map/precache-manifest.27a469f56c5fdd4457c06f7930c20d5b.js",
+    "service-worker.js": "/Map/service-worker.js",
+    "static/css/2.508ae934.chunk.css.map": "/Map/static/css/2.508ae934.chunk.css.map",
+    "static/css/main.268b023d.chunk.css.map": "/Map/static/css/main.268b023d.chunk.css.map",
+    "static/media/main.scss": "/Map/static/media/IRANSansWeb.e43cfbc1.eot",
+    "static/media/font-awesome.min.css": "/Map/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
